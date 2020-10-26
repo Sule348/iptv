@@ -2,3 +2,4 @@
 Ip
 http://smart.hdtv112.com:8080/live/SOMA/mcp5oDcOEO/6864.m3u8?checkedby:hlscat.com
 http://smart.hdtv112.com:8080/live/SOMA/mcp5oDcOEO/6855.m3u8?checkedby:hlscat.com
+http://ingrid.ltd:25461/live/Cc1/Cc1/42677.m3u8?checkedby:hlscat.com
